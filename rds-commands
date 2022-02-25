@@ -1,0 +1,11 @@
+data arranged in a columnar way in rows colums 
+==============================================
+
+bank data 
+bank account == acct-id == address == mobile number== name 
+
+employee:
+emp id ==name == back account == acct-id
+
+sql -rdbms -- RDS 
+
